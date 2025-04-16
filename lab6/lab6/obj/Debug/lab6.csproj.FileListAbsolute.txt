@@ -7,3 +7,12 @@ C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр
 C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
 C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\lab6\lab6\obj\Debug\lab6.exe
 C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab6\lab6\obj\Debug\lab6.pdb

@@ -74,8 +74,6 @@ namespace lab6
             // window
             SolidBrush windowBrush = new SolidBrush(Color.LightPink);
             g.FillRectangle(windowBrush, 350, 240, 55, 55);
-            //g.FillRectangle(windowBrush, 350, 240, 55, 55);
-
 
             // door
             SolidBrush doorBrush = new SolidBrush(Color.Gray);
