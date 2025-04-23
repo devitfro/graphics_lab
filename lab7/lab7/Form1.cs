@@ -14,7 +14,7 @@ namespace lab7
     {
         private Timer timer;
         private float x = 15;
-        private float y = 20;
+        private float y = 0;
         private const int squareSize = 50;
 
         public MainForm()
@@ -41,7 +41,9 @@ namespace lab7
             // Stop, якщо квадрат вийшов за межі екрану
             if (x < -squareSize || y > this.ClientSize.Height)
             {
-                timer.Stop();
+                //timer.Stop();
+                x = 15;
+                y = 0;
             }
             this.Invalidate(); // перерисовка
         }
