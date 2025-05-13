@@ -1,0 +1,10 @@
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab9\lab9\obj\Debug\lab9.Form1.resources
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\alina\OneDrive\Рабочий стол\univer\2 course\2_семестр\Комп.графика\graphics_lab\lab9\lab9\obj\Debug\lab9.pdb
